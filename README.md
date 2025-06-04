@@ -1,6 +1,6 @@
 # 🧠 Wumpus World Solver (8-Directional FOL Agent)
 
-A smarter agent for the Wumpus World Simulator by @thiagodnf – extended with first-order logic-based reasoning, 8-directional inference, and a complete knowledge-based decision-making engine.
+A smart agent for the Wumpus World Simulator by @thiagodnf – extended with first-order logic-based reasoning, 8-directional inference, and a complete knowledge-based decision-making engine.
 
     🔍 Enhanced to infer, visualize, and suggest safe moves while navigating the Wumpus World!
 
