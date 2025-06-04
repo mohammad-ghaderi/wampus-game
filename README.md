@@ -10,7 +10,7 @@ A smart agent for the Wumpus World Simulator by @thiagodnf – extended with fir
     🧭 Supports 8-directional adjacency reasoning
     🕳️ Deduces pit locations via breeze patterns
     🐍 Confirms Wumpus position via overlapping stenches
-    💰 Automatically collects gold
+    💰 Segest to collects gold
     🎯 Shoots the Wumpus only when its position is confirmed
     📚 Displays dynamic Knowledge Base
     🤖 Suggests safe or risky next moves
